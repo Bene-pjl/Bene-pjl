@@ -1,7 +1,7 @@
 <!---comentários --->
 #sobre mim**BENÉ**🇸🇦
 ## *BENEEE_THE FATO*👺🖕🧑🏾‍💻🍆🤏
-
+![].()
 
 ![](https://37.media.tumblr.com/a9c85727a0d86afc5a11ea69c81658c0/tumblr_n4wfuv2m8I1r4ibgqo1_500.gif)
 
@@ -14,8 +14,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![](https://37.media.tumblr.com/a9c85727a0d86afc5a11ea69c81658c0/tumblr_n4wfuv2m8I1r4ibgqo1_500.gif)
+- ![images](https://github.com/user-attachments/assets/5d928221-f720-4773-8b21-a2c07568e246)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
